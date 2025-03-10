@@ -1,0 +1,40 @@
+
+body{
+    font-family: Arial,sans-serif;
+    margin: 5;
+    padding: 5;
+    background-color: rgb(203, 229, 236);
+    color: #333;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.country-info{
+
+    font-family: Arial,sans-serif;
+    margin: 5;
+    padding: 5;
+    background-color: rgb(203, 229, 236);
+    color: #333;
+
+}
+
+.bordering-countries{
+
+    font-family: Arial,sans-serif;
+    margin: 5;
+    padding: 5;
+    background-color: rgb(203, 229, 236);
+    color: #333;
+
+}
+
+
+
+
+
